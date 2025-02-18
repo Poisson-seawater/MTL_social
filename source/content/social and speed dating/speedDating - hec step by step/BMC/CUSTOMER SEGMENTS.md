@@ -1,0 +1,5 @@
+- Célibataires (20-40 ans) à la recherche de rencontres authentiques
+- Nouveaux arrivants / expatriés cherchant à créer un réseau social
+- Personnes introverties ou trop occupées pour rencontrer du monde naturellement
+- Professionnels actifs intéressés par du networking fun
+- Amateurs d’événements & d’expériences sociales

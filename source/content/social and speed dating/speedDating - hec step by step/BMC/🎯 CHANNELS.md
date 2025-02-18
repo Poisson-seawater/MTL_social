@@ -1,0 +1,5 @@
+- Réseaux sociaux et marketing digital (Instagram, TikTok, Facebook, Eventbrite)
+- E-mailing et newsletters pour fidélisation
+- Partenariats avec bars, espaces de coworking et lieux sociaux
+- Bouche-à-oreille et user-generated content
+- Groupes Facebook et forums de rencontres et d’expatriés

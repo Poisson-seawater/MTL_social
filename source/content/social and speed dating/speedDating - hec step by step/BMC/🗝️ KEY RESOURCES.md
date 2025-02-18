@@ -1,0 +1,4 @@
+- Une communauté engagée et une base de clients fidèles
+- Des partenariats avec bars et lieux événementiels
+- Une forte présence en ligne et une communication efficace
+- Des concepts d’événements originaux et une expérience client unique

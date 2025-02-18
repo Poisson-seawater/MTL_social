@@ -1,0 +1,5 @@
+- Vente de billets pour les événements
+- Commission sur boissons via partenariats avec les bars
+- Sponsoring et collaborations avec des marques locales
+- Expériences premium (rencontres VIP, événements privés)
+- Vente de formations ou coaching en dating et socialisation ?

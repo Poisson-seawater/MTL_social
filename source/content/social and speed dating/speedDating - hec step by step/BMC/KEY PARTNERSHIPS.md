@@ -1,0 +1,4 @@
+- Bars et lieux événementiels offrant des espaces et partage de revenus
+- Influenceurs et créateurs de contenu sur TikTok, Instagram et YouTube
+- Applications de rencontres et agences de matchmaking
+- Animateurs, coachs en dating et experts en socialisation

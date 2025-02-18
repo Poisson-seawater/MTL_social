@@ -1,0 +1,6 @@
+- **Expérience immersive avec une mise en confiance dès l'entrée** (musique, décor, accueil chaleureux, bracelets de couleur pour identifier les intentions)
+- **Brise-glace structuré** (questions amusantes, discussions en duo avec rotation toutes les 4 minutes)
+- **Activité principale engageante et interactive** (bingo social, Twister géant, PPT speed dating)
+- **Multiples activités simultanées** (team-building en petits groupes, ateliers thématiques)
+- **Temps libre en fin de soirée avec distractions sociales** (karaoké, danse, animations interactives)
+- **Renforcement de la communauté sur Instagram et dans les universités** (collaborations avec des associations étudiantes et stratégies de bouche-à-oreille)
