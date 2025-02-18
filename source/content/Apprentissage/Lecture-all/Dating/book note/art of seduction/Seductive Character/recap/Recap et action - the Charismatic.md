@@ -1,0 +1,73 @@
+---
+tags:
+  - SurfPhilosophy/dating/ArtOfSeduction/part1
+---
+###### WHAT: The Lamp.
+Invisible to the eye, a current flowing through a wire in a glass vessel generates a heat that turns into candescence. All we see is the glow. In the prevailing darkness, the Lamp lights the way.
+
+> Learn to create the charismatic illusion by radiating intensity while remaining detached. It is seduction on a mass level.
+
+###### HOW
+- Purpose
+	- IF people believe you have a plan, that you know where you are going (*the direction does not matter*)
+		- THEN they will follow you instinctively.
+	- WHY:
+		- people will imagine that your confidence comes from something real
+	- Purposefulness is doubly charismatic in times of trouble.
+		- Since most people hesitate before taking bold action (*even when action is what is required*), single-minded self-assurance will make you the focus of attention. People will believe in you through the simple force of your character.
+- Mystery
+	- particular kind of mystery: the one expressed by contradiction.
+		-  reveal your contradictions slowly and subtly
+		- Otherwise, IF you throw them out one on top of the other, people may think you have an erratic personality
+		- **Must** keep people at arm's length, to keep them from figuring you out
+		- Hint of the uncanny. 
+			- The appearance of prophetic or psychic gifts will add to your aura. Predict things authoritatively and people will often imagine that what you have said has come true.
+	- WHY
+		- most people are predictable, While contradiction make you hard to fathom, add richness to your character, make people talk about you.
+- Saintliness
+	- Most of us must compromise constantly to survive; saints do not. They must live out their ideals without caring about the consequences.
+		- Can be done by matching political values to personal lives.
+		- 1st: must already have some deeply held values;
+			- that part cannot be faked, 
+		- 2nd: show, as simply and subtly as possible, that you live what you believe.
+		- 3rd: the appearance of being mild and unassuming can eventually turn into charisma, as long as you seem completely comfortable with it. 
+- [[_ Éloquence - Voix]]: relies on the power of words
+	- WHY: 
+		- words are the quickest way to create emotional disturbance. 
+	- it helps if the speaker is as emotional, as caught up in words, as the audience is.
+	- can be learned: the devices La Pasionaria used— catchwords, slogans, rhythmic repetitions, phrases for the audience to repeat — can be acquired.
+	- Roosevelt, a calm, patrician type, was able to make himself a dynamic speaker, both through his style of delivery, which was slow and hypnotic, and through his brilliant use of imagery, alliteration, and biblical rhetoric.
+	- The slow, authoritative style is often more effective than passion in the long run, for it is more subtly spellbinding, and less tiring. 
+- **Theatricality**: to be larger than life, to have extra presence
+	-  know how to stand on a crowded stage and command attention
+		- *NOTE: The effect is ruined by trying too hard*
+	-  It is essential to be self-aware, to have the ability to see yourself as others see you.
+	- Once you know how to command attention this way: 
+		- heighten the effect by appearing in ceremonial and ritual events that are full of exciting imagery, making you look regal and godlike.
+		- *note: Flamboyancy has nothing to do with charisma—it attracts the wrong kind of attention.*
+- **Uninhibitedness**: 
+	- Most people are repressed, and have little access to their unconscious, SO become a kind of screen on which others project their secret fantasies and longing.
+	- Show that you are less inhibited than your audience—that you radiate a dangerous sexuality, have no fear of death, are delightfully spontaneous
+	-  An extension of your being uninhibited is a dreamlike quality in your work and character that reveals your openness to your unconscious.
+		- Its cousin is a fluidity of body and spirit; while the repressed are rigid, Charismatics have an ease and an adaptability that show their openness to experience.
+- **Fervency**: You need to believe in something, and to believe in it strongly enough for it to animate all your gestures and make your eyes light up. 
+	- cannot be faked
+	- A prerequisite for fiery belief is some great cause to rally around—a crusade.
+		- Become the rallying point for people's discontent, and show that you share none of the doubts that plague normal humans.
+- **Vulnerability**: display a need for love and affection
+	- Be open to the audience, and in fact feed off its energy; the audience in turn is electrified by the Charismatic, the current increasing as it passes back and forth
+		- This vulnerable side to charisma softens the self-confident side, which can seem fanatical and frightening
+	- WHY: 
+		- This vulnerable side to charisma softens the self-confident side, which can seem fanatical and frightening.
+		- charisma involves feelings akin to love, you in turn must reveal your love for your followers
+	- never seem manipulative or needy. 
+	- Imagine your public as a single person whom you are trying to seduce—nothing is more seductive to people than the feeling that they are desired. 
+- **Adventurousness**: air of adventure and risk that attracts the bored
+	- Have ==PANACHE==
+	-  Show heroism
+- **Magnetism**
+	- If any physical attribute is crucial in seduction, it is the eyes
+	- WHY
+		- They reveal excitement, tension, detachment, without a word being spoken. 
+		- Indirect communication is critical in seduction, and also in charisma. 
+	- The eyes of the Charismatic never show fear or nerves. 

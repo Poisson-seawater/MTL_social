@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"ebf400a39e9f587e","type":"text","text":"# Lighthouse\n does who are trully enlighten know what they want out of life, emotionally, materially, physically and spiritually. \nClear goal will act as your lighthouse. -> [[_Life Heritage|CLARITY]] !!!\n","x":-371,"y":-340,"width":761,"height":320,"color":"1"},
+		{"id":"b2c4f7993cf36bff","type":"text","text":" A good day is pleasant and follow your life purpose \n - Never forget the importance of living with unbridled exhilaration. \n - Never neglect to see the exquisite beauty in all living things. \n - Today, and this very moment, is a gift. \n - Stay focused on your purpose. The Universe will take care of everything else.\n","x":-349,"y":60,"width":717,"height":490,"color":"1"},
+		{"id":"1e1c2aed3bc3b3e8","x":-164,"y":660,"width":347,"height":165,"color":"3","type":"text","text":"HENCE: Know yourself !!\n->  [[Dream book]]"},
+		{"id":"64a86f68499c2172","x":1099,"y":325,"width":621,"height":225,"type":"text","text":"Take 10min each month to write down my goals. \n-> you will never be able to hit a target that you cannot see; "},
+		{"id":"93d1574c574e0ef5","x":695,"y":-20,"width":622,"height":164,"type":"text","text":"> As Benjamin Disraeli said: ‘The secret of success is constancy of purpose"},
+		{"id":"6eb8d8c2f02e7d76","x":920,"y":-640,"width":714,"height":490,"type":"text","text":"The real source of happiness can be stated in a word: **achievement**. \n- Lasting happiness comes from\n\t- steadily working to accomplish your goals \n\t- and advancing confidently in the direction of your life’s purpose. \n- By **productive in a zen like kind, more peacefully and focused.** "},
+		{"id":"12391d9b4aa036f7","x":-1837,"y":-42,"width":615,"height":208,"type":"text","text":"During the road, never forget to live and appreciate beauty in everything. "},
+		{"id":"0f27e19b263aaa62","x":-960,"y":133,"width":360,"height":172,"type":"text","text":"Day management"},
+		{"id":"035a57f3b65dd2eb","x":-1742,"y":219,"width":520,"height":228,"type":"text","text":"Reminder : a day without laughter and or love is a day without life."},
+		{"id":"709e17a53d218cf5","x":-1742,"y":-279,"width":557,"height":199,"type":"text","text":"Never do anything because you have to, do it because you want to. \n\n\n"},
+		{"id":"bb6a34558c1c9858","x":720,"y":207,"width":318,"height":118,"type":"text","text":"[[How to do your goal]]"}
+	],
+	"edges":[
+		{"id":"a6135792612136b9","fromNode":"ebf400a39e9f587e","fromSide":"bottom","toNode":"b2c4f7993cf36bff","toSide":"top"},
+		{"id":"d5e3f4de0e786ebe","fromNode":"b2c4f7993cf36bff","fromSide":"right","toNode":"93d1574c574e0ef5","toSide":"left","label":"purpose"},
+		{"id":"70418a4038fdd27d","fromNode":"93d1574c574e0ef5","fromSide":"top","toNode":"6eb8d8c2f02e7d76","toSide":"bottom"},
+		{"id":"0491737ede01c092","fromNode":"b2c4f7993cf36bff","fromSide":"bottom","toNode":"1e1c2aed3bc3b3e8","toSide":"top"},
+		{"id":"3045fdf5d052284e","fromNode":"6eb8d8c2f02e7d76","fromSide":"right","toNode":"64a86f68499c2172","toSide":"right"},
+		{"id":"4cba03e1a0247078","fromNode":"1e1c2aed3bc3b3e8","fromSide":"right","toNode":"64a86f68499c2172","toSide":"left","fromEnd":"arrow","color":"5"},
+		{"id":"bb368cef1a339d0d","fromNode":"b2c4f7993cf36bff","fromSide":"left","toNode":"0f27e19b263aaa62","toSide":"right"},
+		{"id":"ee330bffd2ab943a","fromNode":"0f27e19b263aaa62","fromSide":"left","toNode":"709e17a53d218cf5","toSide":"right"},
+		{"id":"abc7b01aaba18600","fromNode":"0f27e19b263aaa62","fromSide":"left","toNode":"12391d9b4aa036f7","toSide":"right"},
+		{"id":"3687c12c924dac02","fromNode":"0f27e19b263aaa62","fromSide":"left","toNode":"035a57f3b65dd2eb","toSide":"right"},
+		{"id":"55fc386361280f2a","fromNode":"93d1574c574e0ef5","fromSide":"bottom","toNode":"bb6a34558c1c9858","toSide":"top"}
+	]
+}

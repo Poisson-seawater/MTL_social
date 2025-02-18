@@ -1,0 +1,90 @@
+---
+Art of Seduction: "[[_ Art of Seduction]]"
+tags:
+  - SurfPhilosophy/dating/ArtOfSeduction/part1
+---
+[[Create Temptation - Long version]]
+
+----
+Lure the target deep into your seduction by creating the proper temptation: 
+- a glimpse of the pleasures to come. As the serpent tempted Eve with the promise of forbidden knowledge, you must awaken a desire in your targets that they cannot control. 
+	- Find that weakness of theirs, that fantasy that has yet to be realized, and hint that you can lead them toward it. 
+		- It could be wealth, it could be adventure, it could be forbidden and guilty pleasures; 
+		- ==the key is to keep it vague.==
+- Dangle the prize before their eyes, postponing satisfaction, and let their minds do the rest.
+	- The future seems ripe with possibility. 
+	- Stimulate a curiosity stronger than the doubts and anxieties that go with it, and they will follow you.
+
+-----
+###### Keys to Seduction
+Most of the time, people struggle to maintain security and a sense of balance in their lives.
+- WHY: If they were always uprooting themselves in pursuit of every new person or fantasy that passed them by, they could not survive the daily grind. 
+- HENCE, They usually win the struggle, but it does not come easy. The world is full of temptation. 
+	- The security that they strive for is actually an illusion => It covers up a constant tension.
+
+You know that the victims fight to keep order in their lives is exhausting, and that they are gnawed by doubts and regrets. It is hard to be good and virtuous, to repress the strongest desires. 
+With that knowledge in mind, seduction is easier. What people want is not temptation; temptation happens every day. What people want is to give into temptation, to yield. That is the only way to get rid of the tension in their lives.
+-> It costs much more to resist temptation than to surrender.
+
+Your task, then, is to create a temptation that is stronger than the daily variety. It has to be focused on them, aimed at them as individuals—at their weakness. Understand: everyone has a principal weakness, from which others stem. Find that childhood insecurity, that lack in their life, and you hold the key to tempting them. Their weakness may be greed, vanity, boredom, some deeply repressed desire, a hunger for forbidden fruit. They signal it in little details that elude their conscious control: their style of clothing, an offhand comment. Their past, and particularly their past romances, will be littered with clues. Give them a potent temptation, tailored to their weakness, and you can make the hope of pleasure that you stir in them figure more prominently than the doubts and anxieties that accompany it.
+
+
+###### On barriers and tensions
+The barriers and tensions in temptation are there to stop people from giving in too easily and too superficially. You want them to struggle, to resist, to be anxious.
+
+You are looking for some repression, some secret desire that will make your victim squirm uncomfortably if you hit upon it, but will tempt them all the more. 
+
+###### HOW to find 
+Search in their past; 
+- whatever they seem to fear or flee from might hold the key. 
+- It could be a yearning for a mother or father figure, or a latent homosexual desire. 
+	- so present yourself as a masculine woman or a feminine man.
+	- so play the Lolita, or the daddy—someone they are not supposed to have, the dark side of their personality.
+- HOW Keep the connection vague—you want them to reach for something elusive, something that comes out of their own mind.
+
+
+
+###### WHY "keep it vague" 
+keep the future gains vague, though, and somewhat out of reach. WHY: 
+- Be too specific and you will disappoint;
+- make the promise too close at hand, and you will not be able to postpone satisfaction long enough to get what you want.
+
+##### HOW to tempt people
+-  the opportunity strategy (*Bathsheba bathing in the roof in front of David*): 
+	- give someone weak the chance to have what they lust after by merely placing yourself within their reach, as if by accident. 
+-  often a matter of timing, of crossing the path of the weak at the right moment, giving them the opportunity to surrender. 
+- creating a fetishlike effect
+	- *Bathsheba used her entire body as a lure you can use only a part of the body*,
+	- Madame Recamier would let you glimpse her body beneath the sheer dresses she wore, but only briefly, when she took off her overgarment to dance. 
+		- THEN Men would leave that evening dreaming of what little they had seen. 
+	- Empress Josephine made a point of baring her beautiful arms in public. 
+		- Give the target only a part of you to fantasize about, thereby creating a constant temptation in their mind.
+
+
+###### Old testament
+"David arose from his couch and was walking upon the roof of the king's house . . . [and] he saw from the roof a woman bathing; and the woman was very beautiful."
+Bathsheba had seduced David bt 
+- bathed on her roof at an hour when she knew he would be standing on his balcony. 
+- then after tempting a man she knew had a weakness for women, she played the coquette, forcing him to come after her.
+
+
+
+###### Example from Napoleon speech:
+"Soldiers, you are half starved and half naked. The government owes you much, but can do nothing for you. Your patience, your courage, do you honor, but give you no glory. . . . I will lead you into the most fertile plains of the world. There you will find flourishing cities, teeming provinces. There you will reap honor, glory, and wealth." 
+
+Napoleon's use of temptation had two elements: 
+- behind you is a grim past; ahead of you is a future of wealth and glory, if you follow me. 
+- Integral to the temptation strategy is a clear demonstration that the target has nothing to lose and everything to gain.
+
+
+##### Symbol:The Apple in the Garden of Eden. 
+The fruit looks deeply inviting, and you are not supposed to eat of it; it is forbidden. But that is precisely why you think of it day and night. You see it but cannot have it. And the only way to get rid of this temptation is to yield and taste the fruit.
+
+##### Reversal
+The reverse of temptation is security or satisfaction, and both are fatal to seduction, why : IF 
+- you cannot tempt someone out of their habitual comfort, 
+	- THEN you cannot seduce them. 
+- you satisfy the desire you have awakened,
+	- THEN the seduction is over. 
+
+**There is no reversal to temptation**. Although some stages can be passed over, no seduction can proceed without some form of temptation, so it is always better to plan it carefully, tailoring it to the weakness and childishness in your particular target.

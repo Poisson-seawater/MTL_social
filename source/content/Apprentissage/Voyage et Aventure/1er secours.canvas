@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"4ff81b82b949d7df","type":"text","text":"# 1er secours\nPar L'Association Ambulancière Saint-Jean.","x":-68,"y":-186,"width":399,"height":186,"color":"1"},
+		{"id":"a9403f924fe4c94d","type":"text","text":"## Philosophie du secourisme\n- [[_ Premier Secours]]\n- [[trousse de pharmacie et 1er soins]]\n- [[liste des illustrations et ressource]]","x":245,"y":31,"width":516,"height":297},
+		{"id":"39fd89863140c128","type":"text","text":"## [[Développement Perso/Sport/_ les sport spécifique/Santé vélo spécifique/Transport d'un blessé]]\n","x":-1418,"y":481,"width":400,"height":161},
+		{"id":"90dfba746c3c461c","type":"text","text":"## [[Pansement et bandage]]\n","x":-1277,"y":750,"width":398,"height":190},
+		{"id":"afaeb191a5d14ede","type":"text","text":"## Inconscience","x":-879,"y":994,"width":312,"height":136},
+		{"id":"290d1b3acc9dbdb7","type":"text","text":"## Apprendix\n- La bande roulé\n- Respiration-échange gazeux\n- Respiration artificielle- méthode Holger-Nielsen\n- Respiration artificielle- méthode Schafer\n- Appareil de réanimation\n- L'attelle Thomas\n- Le brancard Neil-Robertson\n- Transport sur le ventre d'un blessé à l'épine dorsale\n- Arrêt de l'hémorragie par compression à distance\n- Disposition à prendre pour la réception d'un blessé dans une maison\n- Premiers soin de certaines blessures\n- Accouchement d'urgence","x":-397,"y":336,"width":728,"height":672},
+		{"id":"a8671ec437ba3b86","type":"text","text":"## Structure et fonctionnement du [[corps humain]]","x":-1400,"y":-93,"width":601,"height":253},
+		{"id":"8c4b89c4df4b044c","type":"text","text":"## Circulation du sang\n","x":-1099,"y":-360,"width":348,"height":137},
+		{"id":"6bd4162299f76171","type":"text","text":"## Blessure dû a la chaleur et au froid","x":-716,"y":-493,"width":459,"height":133},
+		{"id":"38ce9924e1c619b0","type":"text","text":"## Le choc\n","x":914,"y":-150,"width":251,"height":114},
+		{"id":"4aae9119f20b71fa","type":"text","text":"## Une intervention typique","x":914,"y":86,"width":409,"height":148},
+		{"id":"d4afb7a3dc0f5a1c","type":"text","text":"## Hémorragie intéressante et régions spéciale\n","x":441,"y":-539,"width":401,"height":216},
+		{"id":"eba11e5414a5842e","type":"text","text":"## [[Respiration et réanimation]]","x":1210,"y":392,"width":413,"height":170},
+		{"id":"924a88bb18675b2d","type":"text","text":"## États divers","x":1323,"y":609,"width":300,"height":100},
+		{"id":"1cada5bd6e4c9ba9","type":"text","text":"## Blessures aux os et articulation","x":1055,"y":817,"width":377,"height":123},
+		{"id":"9c69c8f9e748be16","type":"text","text":"## Poison","x":440,"y":1080,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"3b7a47991d3d8c71","fromNode":"4ff81b82b949d7df","fromSide":"bottom","toNode":"a9403f924fe4c94d","toSide":"left"},
+		{"id":"325348f9c4ab40d1","fromNode":"4ff81b82b949d7df","fromSide":"bottom","toNode":"290d1b3acc9dbdb7","toSide":"right"}
+	]
+}

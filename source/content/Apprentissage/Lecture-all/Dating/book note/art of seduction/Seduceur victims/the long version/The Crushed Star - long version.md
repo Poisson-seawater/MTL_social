@@ -1,0 +1,9 @@
+---
+tags:
+  - SurfPhilosophy/dating/ArtOfSeduction/typeVictims
+Art of Seduction: "[[_ Art of Seduction]]"
+---
+
+
+###### The Crushed Star.
+We all want attention, we all want to shine, but with most of us these desires are fleeting and easily quieted. The problem with Crushed Stars is that at one point in their lives they did find themselves the center of attention—perhaps they were beautiful, charming and effervescent, perhaps they were athletes, or had some other talent—but those days are gone. They may seem to have accepted this, but the memory of having once shone is hard to get over. In general, the appearance of wanting attention, of trying to stand out, is not seen too kindly in polite society or in the workplace. So to get along, Crushed Stars learn to tamp down their desires; but failing to get the attention they feel they deserve, they also become resentful. You can recognize Crushed Stars by certain unguarded moments: they suddenly receive some attention in a social setting, and it makes them glow; they mention their glory days, and there is a little glint in the eye; a little wine in the system, and they become effervescent. Seducing this type is simple: just make them the center of attention. When you are with them, act as if they were stars and you were basking in their glow. Get them to talk, particularly about themselves. In social situations, mute your own colors and let them look funny and radiant by comparison. In general, play the Charmer. The reward of seducing Crushed Stars is that you stir up powerful emotions. They will feel intensely grateful to you for letting them shine. To whatever extent they had felt crushed and bottled up, the easing of that pain releases intensity and passion, all directed at you. They will fall madly in love. If you yourself have any star or dandy tendencies it is wise to avoid such victims. Sooner or later those tendencies will come out, and the competition between you will be ugly.

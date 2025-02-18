@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"7a60663e71e7418b","type":"text","text":"Women and progesterone \nWHEN progesterone levels start to drop *just before menstruation*—  PMS, or premenstrual syndrome; she:\n- experience more emotional sensitivity, irritability, stress, and sadness \n- can be quite severe depression and anxiety.\n- may have physical symptoms such as headaches, backaches, cramping, and bloating. \n\nTo minimize PMS, she can do: exercise, avoiding caffeine, and taking B vitamins, herbs\n\nWHEN she is PMS say: \"“Sounds to me like you’re feeling really sad at the moment. Talk to me. I want to hear what you’re thinking and feeling right now.”\"\n\n> The only constant is change. She may change from cycle to cycle. ","x":-1776,"y":-176,"width":1000,"height":774,"color":"#c083c9"},
+		{"id":"2b5f34e165ba128c","type":"text","text":"General guideline of menstrual cycles:\n- The first 2 weeks (*estrogen is peaking*),\n\t- women are friendlier, more talkative, more socially relaxed, calmer, and more emotionally sensitive. \n- The second 2 weeks (*progesterone is peaking*), \n\t- women can be more irritable, more stressed, and less calm, plus they want to be alone more.\n\t- They can also be more focused on their interior worlds and more creative.\n- At ovulation, => more emotional and interested in sex,","x":-603,"y":-513,"width":822,"height":680,"color":"#c083c9"},
+		{"id":"ca049f3ecbddfd33","type":"text","text":"## Woman biologie","x":1240,"y":-595,"width":272,"height":164,"color":"#c616e9"},
+		{"id":"14c81bf264f3a585","type":"text","text":"### [[A Mind of Her Own| Woman rythm]]\nwomen are more complicated rhythmically than men, as their hormone levels rise and fall during each month with their menstrual cycles.\n\nPLUS menopause and perimenopause change her a lot !!!","x":321,"y":-566,"width":672,"height":410,"color":"#c083c9"},
+		{"id":"44286c901bd7e8d0","type":"text","text":"#### [[Women and Fear]]\nWomen experience fear in a very different way than men. Ex: men rarely feel physically under danger (fist-fight, war ...); WHILE woman feel physically vulnerable it all the time.","x":1117,"y":-339,"width":517,"height":391,"color":"#c08ed7"},
+		{"id":"8f940dc4b790147d","type":"text","text":"High stress causes men to get less fearful, VS\nwomen get more fearful and are more likely to be afraid in the future. ","x":373,"y":-63,"width":620,"height":222,"color":"#c08ed7"},
+		{"id":"f6a2a1870ef6b3a6","type":"text","text":"Women feel fear in response to a stressful situation. They also experience much more fear over the course of a lifetime, and once they feel fear in a situation, they will be even more afraid when that situation arises again in the future.","x":115,"y":229,"width":568,"height":367,"color":"#c08ed7"},
+		{"id":"eb2a568405d2178d","type":"text","text":"This is why women need to feel emotionally and physically safe with you. Because their biological and physiological needs are different.\n\nWHEN a woman is afraid, hold her hand. The more she like you, the more her fear will shut down. \n\n> Always walk behind or next to a woman (never in front). ","x":1117,"y":167,"width":620,"height":503,"color":"3"}
+	],
+	"edges":[
+		{"id":"1f6e8b07de1b3f8e","fromNode":"2b5f34e165ba128c","fromSide":"left","toNode":"7a60663e71e7418b","toSide":"right"},
+		{"id":"2c67eea2d2c30c3b","fromNode":"14c81bf264f3a585","fromSide":"left","toNode":"2b5f34e165ba128c","toSide":"right"},
+		{"id":"e3ec3d946f77b195","fromNode":"ca049f3ecbddfd33","fromSide":"left","toNode":"14c81bf264f3a585","toSide":"right"},
+		{"id":"523eddc6082918ea","fromNode":"ca049f3ecbddfd33","fromSide":"bottom","toNode":"44286c901bd7e8d0","toSide":"top"},
+		{"id":"6c4b81dcce929270","fromNode":"44286c901bd7e8d0","fromSide":"left","toNode":"8f940dc4b790147d","toSide":"right"},
+		{"id":"5b8bde21de85b6f4","fromNode":"44286c901bd7e8d0","fromSide":"bottom","toNode":"eb2a568405d2178d","toSide":"top"},
+		{"id":"ac19702c545688ab","fromNode":"8f940dc4b790147d","fromSide":"bottom","toNode":"f6a2a1870ef6b3a6","toSide":"right"}
+	]
+}

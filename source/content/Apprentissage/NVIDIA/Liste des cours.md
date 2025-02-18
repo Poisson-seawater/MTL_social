@@ -1,0 +1,8 @@
+1. [Generative AI Explained](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-07+V1/) 
+2. [Building A Brain in 10 Minutes](https://courses.nvidia.com/courses/course-v1:DLI+T-FX-01+V1/)
+3. [Augment your LLM with Retrieval Augmented Generation](https://courses.nvidia.com/courses/course-v1:NVIDIA+S-FX-16+v1/)
+4. [AI in the Data Center](https://www.coursera.org/learn/introduction-ai-data-center) 
+5. [Accelerate Data Science Workflows with Zero Code Changes](https://courses.nvidia.com/courses/course-v1:DLI+T-DS-03+V1/) 
+6. [Mastering Recommender Systems](https://www.classcentral.com/course/youtube-grandmaster-series-mastering-recommender-systems-184298) 
+7. [Networking Introduction](https://www.coursera.org/learn/introduction-to-networking-nvidia)  
+8. [Building RAG Agents with LLMs](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-15+V1/) 

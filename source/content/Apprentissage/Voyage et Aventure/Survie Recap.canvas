@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"45c425046f2f6dbc","type":"text","text":"## La Douleur","x":-125,"y":440,"width":250,"height":122},
+		{"id":"3abd77c9e942e278","type":"text","text":"## Le froid","x":-772,"y":-159,"width":231,"height":119},
+		{"id":"4bc0e5944f6d21f4","type":"text","text":"-> [[trousse de survie]]","x":-480,"y":675,"width":250,"height":95},
+		{"id":"27cd5805ceb3e86d","x":-89,"y":636,"width":250,"height":60,"type":"text","text":"1er secours"},
+		{"id":"91ef1e46d8c576b9","x":-1480,"y":221,"width":313,"height":223,"type":"text","text":"environnement danger\n- feu de forêt\n- sable mouvent"},
+		{"id":"4fede648981a26e8","x":-1471,"y":527,"width":304,"height":318,"type":"text","text":"bien s'habiller pour \n- froid\n- chaud\n- moustique \n- en mer"},
+		{"id":"a974d37cdae069dd","x":-988,"y":469,"width":250,"height":95,"type":"text","text":"Les [[signaux de détresse]]"},
+		{"id":"05f5b9e03d8ab342","type":"text","text":"# Survie\nComment affronter les difficultés suivantes","x":-97,"y":-221,"width":323,"height":185,"color":"1"},
+		{"id":"29397ad6056be1c0","x":89,"y":68,"width":250,"height":96,"type":"text","text":"#### [[Faire un feu]]"},
+		{"id":"a7bc8d6000d77f45","type":"text","text":"### Mental\n- La solitude, l'ennuie et autre dans la tête\n\t- -> faire un feu\n- la fatigue \n\t- -> faire un abri et dormir\n\n-> faire un feu","x":-222,"y":-802,"width":469,"height":382},
+		{"id":"d74a51d3ab153db4","x":65,"y":215,"width":250,"height":141,"type":"text","text":"#### [[Faire un abri]]"},
+		{"id":"25c122ec76d07040","type":"text","text":"- la survie en eau froide\n- motoneige et survie\n- ski de randonnée et surive","x":-1221,"y":-286,"width":381,"height":208},
+		{"id":"323de9652ee71da4","type":"text","text":"## Autre","x":-1030,"y":303,"width":250,"height":60},
+		{"id":"0414d8a2ea218efb","x":-780,"y":165,"width":285,"height":144,"type":"text","text":"Survit en groupe: ÉLIR UN CHEF !!"},
+		{"id":"4825f4323e477643","x":-110,"y":770,"width":293,"height":275,"type":"text","text":"Ce qui peut arrivé\n- les ampoules\n- la cécité partielle\n- lèvre gercées"},
+		{"id":"e0328ac6a6616098","type":"text","text":"Comment cuisiner et optimiser ce qui est chasser/pêcher.","x":1520,"y":641,"width":302,"height":144},
+		{"id":"a5e476f413a916a6","type":"text","text":"comment attrapé les porc-épic ","x":2481,"y":176,"width":294,"height":95},
+		{"id":"0aeb117475e3e2d5","type":"text","text":"tips généraux de chasse","x":2691,"y":309,"width":300,"height":95},
+		{"id":"5b0039a5c69501fb","type":"text","text":"création de matériel de chasse et pêche\n- pince alligator\n- harpon\n- hameçons\n- les appâts","x":2334,"y":713,"width":294,"height":318},
+		{"id":"7e0966e5422ebe69","type":"text","text":"Les pièges:\n- collet \n- guillotine\n- fosse\n- boite de conserve\n- piège à Canards\n- les appâts","x":2691,"y":473,"width":327,"height":364},
+		{"id":"e76fc53cb12be8b5","type":"text","text":"- la chasse \n\t- les pièges:\n- la pêche\n\t- faire un filet\n\t- les autres outils\n- les plantes comestibles\n- conservation des aliments","x":1852,"y":404,"width":399,"height":391},
+		{"id":"e851208c9c9a87a5","type":"text","text":"## La faim","x":1546,"y":473,"width":276,"height":101},
+		{"id":"d23c24353079b873","type":"text","text":"rendre l'eau buvable\n- comprimé\n- la filtrer \n- purifier l'eau","x":1217,"y":-802,"width":395,"height":268},
+		{"id":"87cfd243b9acd391","type":"text","text":"## La soif","x":880,"y":-594,"width":250,"height":60},
+		{"id":"db0060a70cfe122a","x":1706,"y":-951,"width":454,"height":357,"type":"text","text":"technique:\n- distillateur solaire\n\t- technique de la toile\n\t- eau bouillis (avec un pierre)\n\t- passé l'eau dans le sable"}
+	],
+	"edges":[
+		{"id":"8edbc0f05981c87e","fromNode":"05f5b9e03d8ab342","fromSide":"bottom","toNode":"29397ad6056be1c0","toSide":"left"},
+		{"id":"ac2a10cf81b04722","fromNode":"05f5b9e03d8ab342","fromSide":"bottom","toNode":"d74a51d3ab153db4","toSide":"left"},
+		{"id":"94b92f0d5c156997","fromNode":"05f5b9e03d8ab342","fromSide":"top","toNode":"a7bc8d6000d77f45","toSide":"bottom"},
+		{"id":"9e7a20d4053760ab","fromNode":"323de9652ee71da4","fromSide":"top","toNode":"0414d8a2ea218efb","toSide":"left"},
+		{"id":"7faa6ed0a76e0334","fromNode":"d23c24353079b873","fromSide":"right","toNode":"db0060a70cfe122a","toSide":"left"},
+		{"id":"58e991d3795f03bc","fromNode":"87cfd243b9acd391","fromSide":"right","toNode":"d23c24353079b873","toSide":"left"}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"748e232f1f6966d6","x":-1560,"y":-132,"width":634,"height":184,"type":"text","text":"###### satori moment \nmeaning instant awakening; like a deep conversation that will change your life. "},
+		{"id":"972fd757c9d2e373","x":-1243,"y":200,"width":472,"height":249,"type":"text","text":"### technique\n- [[How to do your goal]]\n- [[willpower training]]"},
+		{"id":"f5bcb81252e1cdde","x":-210,"y":-195,"width":313,"height":126,"color":"1","type":"text","text":"# wire cable"},
+		{"id":"119800179d5c6c9b","x":-387,"y":19,"width":668,"height":305,"color":"3","type":"text","text":"Like a wire cable, tiny habit and self discipline make you stronger. Willpower and discipline are like a wire cable - made of multiple tiny and fragile cable-, it's the some of them that create them tougher than Iron"},
+		{"id":"cc1f33b141914589","x":-609,"y":449,"width":712,"height":595,"type":"text","text":"Through the steel of discipline, \nyou will forge a character rich with courage and peace. \nThrough the virtue of will, \nyou are destined to rise to life’s highest ideal and live within a heavenly mansion filled with all that is good, joyful and vital. \n\nWithout them, you are lost like a mariner without a compass, \none who eventually sinks with his ship."},
+		{"id":"39be24574f97fe34","x":320,"y":-488,"width":760,"height":440,"color":"5","type":"text","text":"###### Positive always overcomes negative.\nSo if you continue to wage war against the weaker thoughts that might have silently crept into the palace of your mind over the years (*like I will do it tomorrow or it's too late for me*), eventually they will see that they are unwanted and leave like visitors who know they are not welcome.”\n\n"},
+		{"id":"7dc8eebaffe7a906","x":1240,"y":-528,"width":686,"height":396,"color":"5","type":"text","text":"> “When you control your thoughts, you control your mind.\n>  When you control your mind, you control your life. \n> And once you reach the stage of being in total control of your life, you become the master of your destiny.”\n"},
+		{"id":"bb51c5f2386a2db1","x":1240,"y":-48,"width":666,"height":340,"color":"5","type":"text","text":"\nWhen feel like going back to old habit, remember positive always overcome negative. \nBy battleling again the weak voice in my head, they will leave when they understand they are not welcome"}
+	],
+	"edges":[
+		{"id":"64c6920bb4270219","fromNode":"f5bcb81252e1cdde","fromSide":"bottom","toNode":"119800179d5c6c9b","toSide":"top"},
+		{"id":"783d63ec936516c6","fromNode":"f5bcb81252e1cdde","fromSide":"left","toNode":"972fd757c9d2e373","toSide":"right"},
+		{"id":"dd54fa5ab81276f3","fromNode":"f5bcb81252e1cdde","fromSide":"left","toNode":"748e232f1f6966d6","toSide":"right"},
+		{"id":"6f962408ac5fc2e5","fromNode":"f5bcb81252e1cdde","fromSide":"right","toNode":"39be24574f97fe34","toSide":"left"},
+		{"id":"a8774ce10f7fac30","fromNode":"f5bcb81252e1cdde","fromSide":"bottom","toNode":"cc1f33b141914589","toSide":"top"},
+		{"id":"fb6814524d10a5f5","fromNode":"39be24574f97fe34","fromSide":"right","toNode":"7dc8eebaffe7a906","toSide":"left"},
+		{"id":"21cc2ab765acf94b","fromNode":"39be24574f97fe34","fromSide":"right","toNode":"bb51c5f2386a2db1","toSide":"left"}
+	]
+}

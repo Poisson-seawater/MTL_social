@@ -1,0 +1,9 @@
+---
+tags:
+  - SurfPhilosophy/dating/ArtOfSeduction/typeVictims
+Art of Seduction: "[[_ Art of Seduction]]"
+---
+
+
+###### The Reformed Rake or Siren
+People of this type were once happy-go-lucky seducers who had their way with the opposite sex. But the day came when they were forced to give this up—someone corraled them into a relationship, they were encountering too much social hostility, they were getting older and decided to settle down. Whatever the reason, you can be sure they feel some resentment and a sense of loss, as if a limb were missing. We are always trying to recapture pleasures we experienced in the past, but the temptation is particularly great for the Reformed Rake or Siren because the pleasures they found in seduction were intense. These types are ripe for the picking: all that is required is that you cross their path and offer them the opportunity to resume their rakish or siren ways. Their blood will stir and the call of their youth will overwhelm them. It is critical, though, to give these types the illusion that they are the ones doing the seducing. With the Reformed Rake, you must spark his interest indirectly, then let him burn and glow with desire. With the Reformed Siren, you want to give her the impression that she still has the irresistible power to draw a man in and make him give up everything for her. Remember that what you are offering these types is not another relationship, another constriction, but rather the chance to escape the corral and have some ran. Do not be put off if they are in a relationship; a preexisting commitment is often the perfect foil. If hooking them into a relationship is what you want, hide it as best you can and realize it may not be possible. The Rake or Siren is unfaithful by nature; your ability to spark the old feeling gives you power, but then you will have to live with the consequences of their feckless ways.

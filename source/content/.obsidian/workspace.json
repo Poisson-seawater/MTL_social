@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test middle part.md",
+                "file": "1er folder par moi/2nd folder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test middle part"
+              "title": "2nd folder"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test middle part.md",
+                "file": "1er folder par moi/2nd folder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for test middle part"
+              "title": "Backlinks for 2nd folder"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test middle part.md",
+                "file": "1er folder par moi/2nd folder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from test middle part"
+              "title": "Outgoing links from 2nd folder"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test middle part.md",
+                "file": "1er folder par moi/2nd folder.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test middle part"
+              "title": "Outline of 2nd folder"
             }
           }
         ]
@@ -214,8 +214,8 @@
   },
   "active": "952413e049fff118",
   "lastOpenFiles": [
-    "1er folder par moi/2nd folder.md",
     "test middle part.md",
+    "1er folder par moi/2nd folder.md",
     "1er folder par moi",
     "index.md",
     "category-folder/index.md",

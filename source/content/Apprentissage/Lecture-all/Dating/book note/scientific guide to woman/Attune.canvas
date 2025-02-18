@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"9768c6affdb8bbdd","type":"text","text":"UNDERSTAND. No matter what she is saying, the goal is understanding. \nYou understand is by asking questions. Ask  what she is feeling and what it all means to her. This part of attuning is not about saying “I understand”; it’s about **attempting to understand why this is important to her**.","x":-3106,"y":-1710,"width":797,"height":367},
+		{"id":"cbe394405ddcefe7","type":"text","text":"> ALWAYS look into her eyes while she’s speaking.","x":-4479,"y":-1548,"width":440,"height":155},
+		{"id":"b621b68ffdfbcfaf","type":"text","text":"People like people who like them. If you like her, show her through words, actions, and your conversation and listening skills. Undivided attention is a powerful aphrodisiac.","x":-4719,"y":-780,"width":426,"height":367},
+		{"id":"150e6bab0e7a7e0e","type":"text","text":"### [[What woman want.canvas|Attune]]\n**Attunement** = creating genuine emotional connection.","x":-2275,"y":-708,"width":460,"height":188,"color":"3"},
+		{"id":"0b0ab4805eddfc53","type":"text","text":"###### HOW to Attunement : \nGive your undivided attention when it’s needed. \n<=> **WHEN she wants to talk to you**: turn off the game, put away your cell phone, and show by your actions that you care about her and about what she is saying. \n\n>[!info] Attention equals affection.\n","x":-3018,"y":-1229,"width":620,"height":521},
+		{"id":"6ba1baaba68287c0","type":"text","text":"TURN TOWARD. This is not a metaphor or a new age expression. Physically. Turn. Toward. Your. Partner.  Women equate intimacy with conversation that is face-to-face and eyeball-to-eyeball.\nVS men are side-by-side to express attention (*due to hunting in the day ??*)\n\n\n\n\n\n","x":-3927,"y":-1596,"width":732,"height":304},
+		{"id":"cfdfe21769f1a869","type":"text","text":"NONDEFENSIVELY LISTEN. When a woman is talking about or is upset about is you. Don’t react. Whether or not you agree with her reactions or how she sees reality, her feelings are real to her in that moment. You only need to listen to her express them.","x":-4075,"y":-1229,"width":742,"height":322},
+		{"id":"caa607c8599d3a08","type":"text","text":"EMPATHIZE. Understanding is an intellectual pursuit, while empathy is an emotional pursuit. Try to feel how a woman is feeling, regardless of whether it's logic or not. You can ask her how she feels (genius) and try to cold read her. Let her know that you value how she feels and that it makes sense to you that she would feel this way. **Show empathy.\nShow compassion. It’s not about being wrong or being right**.\n-> goal: she feel safe and heard.","x":-4075,"y":-870,"width":880,"height":388},
+		{"id":"35dd77526ca65fde","type":"text","text":"It is about  being there for them emotionally:\n- listening to her, \n- caring for her, \n- and **safeguarding her heart** (<=> *trustworthiness* ).","x":-2275,"y":-436,"width":499,"height":396},
+		{"id":"06e1fee106399e1b","type":"text","text":"You dismiss a woman’s emotions every time you \n- try to fix her,\n- distract her from her emotion, \n- minimize her emotion, \n- mock her, \n- or ignore her emotion altogether","x":-2723,"y":3,"width":504,"height":495},
+		{"id":"2db17bcedebb048c","type":"text","text":"Don’t think you can give her logical reasons why she feel something. Acceptance is the key. As you learn to accept her emotions, you may learn to accept your own.","x":-3379,"y":80,"width":575,"height":277,"color":"2"},
+		{"id":"8647b845d1a45acd","type":"text","text":"Logical explanation:\n1. Trait women want most: trustworthiness.\n2. Trust is built through: emotional connection.\n3. Emotional connection is created through: attunement.\n4. Therefore, emotional attunement = trustworthiness.\n\n> Woman need to feel respected, heard, and connected.","x":-3023,"y":-651,"width":600,"height":611,"color":"2"},
+		{"id":"57747c092ae532f1","type":"text","text":"IF trustworthiness is about creating safety (physical and emotional), \nTHEN create safety in a conversation is by being a good listener and being genuinely interested.","x":-2185,"y":-1386,"width":466,"height":400,"color":"3"},
+		{"id":"c6827e486f7ddc31","type":"text","text":"##### trustworthiness is: \n- You are who you say you are \n- AND you do what you say you are going to do. \n\nIt’s about \n- reliability, \n- accountability,\n- and showing up just as you are (but with good hygiene). \n\nGot to do the little gesture that show you care -> gentleman behvior!!","x":-1625,"y":-966,"width":560,"height":640,"color":"1"},
+		{"id":"0fd8704adcf7b166","type":"text","text":"## [[What Do Women Really Want]] : **trustworthiness**","x":-811,"y":-436,"width":427,"height":288},
+		{"id":"47d3124868001335","type":"text","text":"###### Physical safety\nWomen also need to feel physically safe with you. Men are often bigger than women and their voices are deeper and louder. Those can feel intimidating!!\n=>A lack of physical safety is a deal breaker with women.","x":-1671,"y":-1386,"width":606,"height":398},
+		{"id":"7a45312f31f3bac6","type":"text","text":"###### Two Major Complaints That Women Have\n- He is never there for me.” \n- “There isn’t enough intimacy and connection.”","x":-1479,"y":-283,"width":595,"height":302}
+	],
+	"edges":[
+		{"id":"bcaa86d5e65b30ed","fromNode":"0b0ab4805eddfc53","fromSide":"top","toNode":"9768c6affdb8bbdd","toSide":"bottom"},
+		{"id":"2720902893f18c9c","fromNode":"6ba1baaba68287c0","fromSide":"left","toNode":"cbe394405ddcefe7","toSide":"right"},
+		{"id":"a6c1d90f5832b042","fromNode":"caa607c8599d3a08","fromSide":"left","toNode":"b621b68ffdfbcfaf","toSide":"right"},
+		{"id":"b151840badb0ddc7","fromNode":"150e6bab0e7a7e0e","fromSide":"left","toNode":"8647b845d1a45acd","toSide":"right"},
+		{"id":"551227b44edb4368","fromNode":"150e6bab0e7a7e0e","fromSide":"top","toNode":"0b0ab4805eddfc53","toSide":"right"},
+		{"id":"8cfe8142cc53ccc1","fromNode":"150e6bab0e7a7e0e","fromSide":"bottom","toNode":"35dd77526ca65fde","toSide":"top"},
+		{"id":"2e045946e0c6c0ba","fromNode":"c6827e486f7ddc31","fromSide":"left","toNode":"150e6bab0e7a7e0e","toSide":"right"},
+		{"id":"9e8ae82bc616176e","fromNode":"7a45312f31f3bac6","fromSide":"left","toNode":"150e6bab0e7a7e0e","toSide":"right"},
+		{"id":"d505576c7dfe21cb","fromNode":"0b0ab4805eddfc53","fromSide":"left","toNode":"caa607c8599d3a08","toSide":"right"},
+		{"id":"72845fa3aabbab34","fromNode":"0b0ab4805eddfc53","fromSide":"left","toNode":"6ba1baaba68287c0","toSide":"right"},
+		{"id":"c50217ae2019eb9c","fromNode":"0b0ab4805eddfc53","fromSide":"left","toNode":"cfdfe21769f1a869","toSide":"right"},
+		{"id":"d4cee54c79e56c36","fromNode":"7a45312f31f3bac6","fromSide":"left","toNode":"35dd77526ca65fde","toSide":"right","label":"Translate into"},
+		{"id":"ba29fe5005ba38e9","fromNode":"06e1fee106399e1b","fromSide":"left","toNode":"2db17bcedebb048c","toSide":"right"},
+		{"id":"38c7afc5480a1c4a","fromNode":"7a45312f31f3bac6","fromSide":"left","toNode":"06e1fee106399e1b","toSide":"right"},
+		{"id":"066dc737bc11f3d4","fromNode":"c6827e486f7ddc31","fromSide":"left","toNode":"57747c092ae532f1","toSide":"bottom"},
+		{"id":"15c02e93a74cc7f0","fromNode":"c6827e486f7ddc31","fromSide":"right","toNode":"47d3124868001335","toSide":"right"},
+		{"id":"e5b945f6af39f0d9","fromNode":"0fd8704adcf7b166","fromSide":"left","toNode":"c6827e486f7ddc31","toSide":"right"},
+		{"id":"0e3807d8f643a242","fromNode":"0fd8704adcf7b166","fromSide":"left","toNode":"7a45312f31f3bac6","toSide":"right"}
+	]
+}
