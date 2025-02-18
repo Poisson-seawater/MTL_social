@@ -1,4 +1,0 @@
----
-tags:
-  - survie/signauxDetresse
----

@@ -1,4 +1,0 @@
----
-tags:
-  - marketing/processus
----

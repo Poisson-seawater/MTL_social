@@ -1,9 +1,0 @@
----
-tags:
-  - SurfPhilosophy/dating/ArtOfSeduction/part3
-Art of Seduction: "[[_ Art of Seduction]]"
----
-
-
-###### An exemple of Oriana Fallaci interview processs
-In 1973, the Shah of Iran, Mohammed Riza Pahlavi, granted Fallaci an interview. He knew how to handle the press—be noncommittal, speak in generalities, seem firm, yet polite. This approach had worked a thousand times before. Fallaci began the interview on a personal level, asking how it felt to be a king, to be the target of assassination attempts, and why the shah always seemed so sad. He talked of the burdens of his position, the pain and loneliness he felt. It seemed a release of sorts to talk about his professional problems. As he talked, Fallaci said little, her silence goading him on. Then she suddenly changed the subject: he was having difficulties with his second wife. Surely that must hurt him? This was a sore spot, and Pahlavi got angry. He tried to change the subject, but she kept returning to it. Why waste time talking about wives and women, he said. He then went so far as to criticize women in general—their lack of creativity, their cruelty. Fallaci kept at him: he had dictatorial tendencies and his country lacked basic freedoms. Fallaci's own books were on his government's blacklist. Hearing this, the shah seemed somewhat taken aback—perhaps he was dealing with a subversive writer. But then she softened her tone again, asked him about his many achievements. The pattern repeated: the moment he relaxed, she blindsided him with a sharp question; when he grew bitter, she lightened the mood. Like Kissinger, he found himself opening up despite himself and mentioning things he would later regret, such as his intention to raise the price of oil. Slowly he fell under her spell, even began to flirt with her. "Even if you're on the blacklist of my authorities," he said at the end of the interview, "I'll put you on the white list of my heart."

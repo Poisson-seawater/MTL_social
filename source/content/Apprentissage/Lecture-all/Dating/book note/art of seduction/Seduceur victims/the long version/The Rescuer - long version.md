@@ -1,9 +1,0 @@
----
-tags:
-  - SurfPhilosophy/dating/ArtOfSeduction/typeVictims
-Art of Seduction: "[[_ Art of Seduction]]"
----
-
-
-###### The Rescuer
-We are often drawn to people who seem vulnerable or weak—their sadness or depression can actually be quite seductive. There are people, however, who take this much further, who seem to be attracted only to people with problems. This may seem noble, but Rescuers usually have complicated motives: they often have sensitive natures and truly want to help. At the same time, solving people's problems gives them a kind of power they relish—it makes them feel superior and in control. It is also the perfect way to distract them from their own problems. You will recognize these types by their empathy—they listen well and try to get you to open up and talk. You will also notice they have histories of relationships with dependent and troubled people. Rescuers can make excellent victims, particularly if you enjoy chivalrous or maternal attention. If you are a woman, play the damsel in distress, giving a man the chance so many men long for—to act the knight. If you are a man, play the boy who cannot deal with this harsh world; a female Rescuer will envelop you in maternal attention, gaining for herself the added satisfaction of feeling more powerful and in control than a man. An air of sadness will draw either gender in. Exaggerate your weaknesses, but not through overt words or gestures—let them sense that you have had too little love, that you have had a string of bad relationships, that you have gotten a raw deal in life. Having lured your Rescuer in with the chance to help you, you can then stoke the relationship's fires with a steady supply of needs and vulnerabilities. You can also invite moral rescue: you are bad. You have done bad things. You need a stern yet loving hand. In this case the Rescuer gets to feel morally superior, but also the vicarious thrill of involvement with someone naughty.

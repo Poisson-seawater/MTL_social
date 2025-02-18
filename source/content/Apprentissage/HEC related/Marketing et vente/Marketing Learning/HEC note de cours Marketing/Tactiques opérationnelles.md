@@ -1,4 +1,0 @@
----
-tags:
-  - études/Marketing
----
